@@ -1,0 +1,5 @@
+test
+stribog
+*.o
+stribog_fast.c
+gen_opt
